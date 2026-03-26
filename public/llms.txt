@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מארזי מתנה מעוצבים לכל אירוע ורגע מיוחד. ליאל גיפט בוקסס יוצרת חוויות מתנה בלתי נשכחות לחגים, לידות ואירועים קורפורטיביים. גלו את הקולקציה עכשיו!
+
+### שירותים
+https://example.com/services
+ממארז מתנה יוקרתי ליולדת ועד מארז מתנה מעוצב לעובדים — אנחנו מציעים פתרונות מתנה מושלמים לכל צורך. שירות אישי, עיצוב מרהיב ואיכות שאין שניה לה.
+
+### אודות
+https://example.com/about
+מאחורי כל מארז מתנה עומדת אמנות אמיתית. גלו את הסיפור של ליאל גיפט בוקסס, את הערכים שמניעים אותנו ואת התשוקה שאנו שמים בכל אריזה שיוצאת מהסטודיו שלנו.
+
+### צור קשר
+https://example.com/contact
+רוצים מארזי מתנה לחגים, לאירוע קורפורטיבי או לרגע אישי מיוחד? צרו איתנו קשר עוד היום ונבנה יחד את חבילת המתנה שתשאיר חותם בלתי נשכח על כל מקבל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Liel gift boxes
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Liel gift boxes
+
+### Category
+https://example.com/category/:slug
+מוצרים - Liel gift boxes
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
